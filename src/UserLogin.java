@@ -63,7 +63,7 @@ private JButton btnNewButton;
 
 
         //password Field
-       // passwordField
+
 
 
         btnNewButton = new JButton("Login");
